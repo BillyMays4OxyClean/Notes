@@ -1,0 +1,34 @@
+## Future Ideas
+
+# Projects
+- Articulating robotic arm
+- [ ] Articulating robotic arm
+- [ ] Calorie counting iPhone app
+- [ ] Automated pet sprayer
+    - [ ] Motion activated
+- [ ] Laundry folding robot
+- [ ] Multi zone Air vent system
+- [ ] Filament extruder
+- [ ] Raspberry pi soundboard
+- [ ] Raspberry pi pc foot pedals
+- [ ] Raspberry pi stream mixer and pre amp
+- [ ] AR Wielding articulating robotic arm
+- [ ] Security camera software
+- [ ] Remote door opener
+- [ ] Refine python bot
+- [ ] DSP Calculator
+- [ ] Conceptual design missile software
+    - [ ] Great value Javelin
+    - [ ] BVR surface
+    - [ ] Hypersonic SAM
+- [ ] Printed NVG housing
+    - [ ] OpenSCAD parametric design
+    - [ ] Mono, dual, and pano
+- [ ] Printed DIY digital NVGs
+    - [ ] Mono, dual, and pano
+    - [ ] Rifle mounted optic
+- [ ] Articulating desk light
+- [ ] Proof of concept hand-held rail gun
+- [ ] Design a basic object browser:
+    - [ ] Doxygen interpreter
+
