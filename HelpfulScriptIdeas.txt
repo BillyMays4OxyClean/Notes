@@ -1,0 +1,5 @@
+Make a command that easily creates a new CMake project.
+Some notable improvements over time could be:
+- Add a flag to specify the name of the project
+- Add a flag to specify the C++ standard.
+- Add a flag to specify includes.

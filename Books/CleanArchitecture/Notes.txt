@@ -1,0 +1,7 @@
+## These are my notes for Clean Architecture
+
+# Chapter 4: OOO
+```
+#include <stdio.h>
+```
+
