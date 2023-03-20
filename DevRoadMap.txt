@@ -1,0 +1,18 @@
+C
+C++
+Qt
+CMake
+Unreal Engine
+C#
+HTML
+XML
+Linux
+Java
+Java Script
+UML
+Doxygen
+BASH
+Docker
+Kubernetes
+Vitual Machines
+
