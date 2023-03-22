@@ -2,7 +2,12 @@ Make a command that easily creates a new CMake project.
 Some notable improvements over time could be:
 - Add a flag to specify the name of the project
 - Add a flag to specify the C++ standard.
-- Add a flag to specify includes.
+- Add a flag to specify the executable name.
+    - Be able to handle string inputs that have multiple spaces.
+        Ex: newproject --name="My new program"
+Ex:
+newproject --name=MyProgram --C++STD=20 --exe=Run
+
 
 Make a command that easily generates markdown html files.
 - Possibly could use CMake for large sets of files.
