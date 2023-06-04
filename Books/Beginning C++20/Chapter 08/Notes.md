@@ -27,3 +27,21 @@ Functions are defined with the **function header** shown below. The function hea
 return_type function_name(parameter_list)
 ```
 
+### How the return statement works
+In the code below, the variable `result` is local to the function body. Since `result` goes out of scope once the function returns, `result` no longer exists after the function finishes executing. This begs the question of how the `power` function can return the `result` if it is deleted once the function is done executing? The answer to this is that **a copy of `result` is created a returned**.
+
+```c++
+double power(double x, int n)
+{
+   double result{1.0};
+   if (n >= 0)
+   {
+      result *= x;
+   }
+   else
+   {
+      result /= x;
+   }
+   return result;
+}
+```
